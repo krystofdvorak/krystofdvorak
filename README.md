@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @krystofdvorak
-- 👀 I’m interested in coding, networking
-- 🌱 I’m currently learning C++, using linux servers
 - 📫 How to reach me   email: krystof.dv7@gmail.com
 
 <!---
