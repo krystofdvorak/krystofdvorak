@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @krystofdvorak
+- Work in progress with LiftSet
+- Swift - ios development
 - 📫 How to reach me   email: krystof.dv7@gmail.com
 
 <!---
